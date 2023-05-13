@@ -6,5 +6,5 @@
 ### Last open settings.py and replace all of the variables
 ### Than you can use your database
 
-#INFORMATION
+# INFORMATION
 ### You can change tables in main.py
